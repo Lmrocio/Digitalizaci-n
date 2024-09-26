@@ -1,3 +1,0 @@
-#Digitalización
-
-Blbalbalbalablalbalab
