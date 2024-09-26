@@ -16,4 +16,4 @@ Esta información fue sacada de [Digitalización y Trasformación digital](https
 ![imagen](https://ies-rafael-alberti.github.io/digitalizacion-gs/docs/glosario/assets/digitalizacion-transformacion.png)
 
 
-
+[Transformación digital](https://lmrocio.github.io/Digitalizaci-n/Transformacion)
